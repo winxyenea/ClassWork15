@@ -1,0 +1,73 @@
+.quote{
+    width: 35px;
+    height: 35x;
+    color: #2A4EAA;
+    
+
+}
+body{
+    background-color: #F2F2F2;
+}
+
+.pic1{
+    margin-left: 350px;
+    margin-top: -350px;
+    width: 150px;
+    height: 150px;
+   
+    
+
+}
+p{
+color: grey;
+}
+.box{
+    background-color: white;
+    border: solid grey 1px;
+    width: 500px;
+    border-radius: 10px;
+}
+
+.box3{
+    margin-left: 520px;
+    margin-top: -358px;
+    height: 357px;
+    width: 340px;
+
+}
+
+.quote3 {
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.box3 p{
+    margin-left: 20px;
+}
+.box3 h4{
+
+    margin-left: 100px;
+    margin-top: -50px;
+    
+    
+}
+.box3 h6{
+    margin-left: 100px;
+    margin-top: -20px;
+    color: grey;
+}
+.pic3{
+    margin-top: 85px;
+    margin-left: 10px;
+}
+
+    
+
+
+
+
+
+
+
+
+
+
